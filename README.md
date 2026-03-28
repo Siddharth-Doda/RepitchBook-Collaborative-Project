@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # RepitchBook
 
 AI-Powered Real Estate Deal Intelligence Engine, to refine, structure, and repitch ideas effectively
@@ -208,3 +209,7 @@ LinkedIn: https://www.linkedin.com/in/soumya-arora-62t007770n
 
 
 
+=======
+# RepitchBook-Collaborative-Project
+Turn property data into investor-grade deal memos with instant ROI, cash flow, and risk analysis.
+>>>>>>> b1cb46ec3ac79a1ffbb1f7799e788b0b5f4c34f9
