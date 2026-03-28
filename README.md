@@ -49,13 +49,13 @@ I was responsible for building the **entire frontend** of the application.
 ## Screenshots
 
 ### Dashboard
-![Dashboard](./screenshots/dashboard.png)
+![Dashboard](./screenshots/dashboard.png.jpeg)
 
 ### Home Page
 ![Form](./screenshots/form.png)
 
 ### Generated Investment Memo
-![Memo](./screenshots/memo.png)
+![Memo](./screenshots/memo.png.jpeg)
 
 
 ## Hackathon Experience
