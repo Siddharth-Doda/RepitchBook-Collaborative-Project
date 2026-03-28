@@ -67,10 +67,6 @@ This project was built during an **overnight IEEE hackathon**.
 - Collaborated rapidly to ship a working product  
 - Ended up securing **2nd place among 250+ teams**  
 
-## Live Demo
-
-https://repitchbook-ai-a3s1.vercel.app
-
 ## Final Thoughts
 
 This wasn’t just about building something cool it was about solving a real problem under pressure.
